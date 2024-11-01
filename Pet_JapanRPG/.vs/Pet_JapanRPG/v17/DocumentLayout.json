@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BC84E9-CCFA-E764-5709-B10D47BC59E9}|Characters.csproj|c:\\users\\kirca\\cpa_store\\pet_japanrpg\\assets\\_project\\develop\\game\\characters\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BC84E9-CCFA-E764-5709-B10D47BC59E9}|Characters.csproj|solutionrelative:assets\\_project\\develop\\game\\characters\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BC84E9-CCFA-E764-5709-B10D47BC59E9}|Characters.csproj|c:\\users\\kirca\\cpa_store\\pet_japanrpg\\assets\\_project\\develop\\game\\characters\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BC84E9-CCFA-E764-5709-B10D47BC59E9}|Characters.csproj|solutionrelative:assets\\_project\\develop\\game\\characters\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613F7E1D-B3BA-05AC-0851-1456F1FF6E17}|Inventory.csproj|C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\assets\\_project\\develop\\game\\inventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613F7E1D-B3BA-05AC-0851-1456F1FF6E17}|Inventory.csproj|solutionrelative:assets\\_project\\develop\\game\\inventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613F7E1D-B3BA-05AC-0851-1456F1FF6E17}|Inventory.csproj|C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\assets\\_project\\develop\\game\\inventory\\inventorycell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613F7E1D-B3BA-05AC-0851-1456F1FF6E17}|Inventory.csproj|solutionrelative:assets\\_project\\develop\\game\\inventory\\inventorycell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613F7E1D-B3BA-05AC-0851-1456F1FF6E17}|Inventory.csproj|C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\assets\\_project\\develop\\game\\inventory\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613F7E1D-B3BA-05AC-0851-1456F1FF6E17}|Inventory.csproj|solutionrelative:assets\\_project\\develop\\game\\inventory\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BC84E9-CCFA-E764-5709-B10D47BC59E9}|Characters.csproj|C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\assets\\_project\\develop\\game\\characters\\characteranimatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BC84E9-CCFA-E764-5709-B10D47BC59E9}|Characters.csproj|solutionrelative:assets\\_project\\develop\\game\\characters\\characteranimatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BC84E9-CCFA-E764-5709-B10D47BC59E9}|Characters.csproj|C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Characters\\Base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BC84E9-CCFA-E764-5709-B10D47BC59E9}|Characters.csproj|solutionrelative:Assets\\_Project\\Develop\\Game\\Characters\\Base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BC84E9-CCFA-E764-5709-B10D47BC59E9}|Characters.csproj|C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Characters\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BC84E9-CCFA-E764-5709-B10D47BC59E9}|Characters.csproj|solutionrelative:Assets\\_Project\\Develop\\Game\\Characters\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D86223D-5FD3-7C50-9341-13D6D9A307D4}|Assembly-CSharp.csproj|C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\assets\\_project\\develop\\bootstrap\\entrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D86223D-5FD3-7C50-9341-13D6D9A307D4}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\develop\\bootstrap\\entrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Characters\\Data.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Develop\\Game\\Characters\\Data.cs",
+              "ToolTip": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Characters\\Data.cs",
+              "RelativeToolTip": "Assets\\_Project\\Develop\\Game\\Characters\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:56:50.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharacterAnimatorController.cs",
+              "DocumentMoniker": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Characters\\CharacterAnimatorController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Develop\\Game\\Characters\\CharacterAnimatorController.cs",
+              "ToolTip": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Characters\\CharacterAnimatorController.cs",
+              "RelativeToolTip": "Assets\\_Project\\Develop\\Game\\Characters\\CharacterAnimatorController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:18:18.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Inventory\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Develop\\Game\\Inventory\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Inventory\\InventoryItem.cs",
+              "RelativeToolTip": "Assets\\_Project\\Develop\\Game\\Inventory\\InventoryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:40:42.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryCell.cs",
+              "DocumentMoniker": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Inventory\\InventoryCell.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Develop\\Game\\Inventory\\InventoryCell.cs",
+              "ToolTip": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Inventory\\InventoryCell.cs",
+              "RelativeToolTip": "Assets\\_Project\\Develop\\Game\\Inventory\\InventoryCell.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:30:26.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Inventory\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Develop\\Game\\Inventory\\Inventory.cs",
+              "ToolTip": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Inventory\\Inventory.cs",
+              "RelativeToolTip": "Assets\\_Project\\Develop\\Game\\Inventory\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:27:50.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Characters\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Develop\\Game\\Characters\\Player.cs",
+              "ToolTip": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Characters\\Player.cs",
+              "RelativeToolTip": "Assets\\_Project\\Develop\\Game\\Characters\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:17:58.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Characters\\Base.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Develop\\Game\\Characters\\Base.cs",
+              "ToolTip": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Characters\\Base.cs",
+              "RelativeToolTip": "Assets\\_Project\\Develop\\Game\\Characters\\Base.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:12:01.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Characters\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Develop\\Game\\Characters\\Character.cs",
+              "ToolTip": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Game\\Characters\\Character.cs",
+              "RelativeToolTip": "Assets\\_Project\\Develop\\Game\\Characters\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:11:17.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntryPoint.cs",
+              "DocumentMoniker": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Bootstrap\\EntryPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Develop\\Bootstrap\\EntryPoint.cs",
+              "ToolTip": "C:\\Users\\kirca\\CPA_Store\\Pet_JapanRPG\\Assets\\_Project\\Develop\\Bootstrap\\EntryPoint.cs",
+              "RelativeToolTip": "Assets\\_Project\\Develop\\Bootstrap\\EntryPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:10:17.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
