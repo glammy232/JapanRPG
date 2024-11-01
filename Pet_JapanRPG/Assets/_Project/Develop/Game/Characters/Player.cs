@@ -1,4 +1,5 @@
 using Characters.Configuration;
+using System;
 using UnityEngine;
 
 namespace Characters
@@ -14,11 +15,30 @@ namespace Characters
 
         private float _health;
 
-        private bool _isMoving;
-
         private float _speed;
 
-        private States _states; 
+        private States _state; 
+        private States state
+        {
+            get => _state;
+            set
+            {
+                _state = value;
+
+                Debug.Log(Enum.GetName(typeof(States), value));
+
+                _animationController.SetAnimation(Enum.GetName(typeof(States), value));
+            }
+        }
+
+        private Vector2 _moveDirection;
+
+        private void Awake()
+        {
+            PlayerConfig config = new PlayerConfig(Enum.GetNames(typeof(States)), 100, 10, 10, 5, GetComponent<Rigidbody2D>(), GetComponent<Animator>());
+
+            Initialize(config);
+        }
 
         public void Initialize(PlayerConfig config)
         {
@@ -30,27 +50,27 @@ namespace Characters
 
             _rigidbody2D = config.Rigidbody2D;
 
-            _animationController = new CharacterAnimatorController(config.Animator, _states);
+            _animationController = new CharacterAnimatorController(config.Animator, _state);
 
             _animationController.SetAnimation(nameof(States.Idle));
         }
 
         private void Update()
         {
-            if (Input.GetAxis("Horizontal") != 0 || Input.GetAxis("Vertical") != 0)
-                _isMoving = true;
-            else
-                _isMoving = false;
+            int up = Convert.ToInt32(Input.GetKey(KeyCode.W));
+            int down = Convert.ToInt32(Input.GetKey(KeyCode.S));
+            int right = Convert.ToInt32(Input.GetKey(KeyCode.D));
+            int left = Convert.ToInt32(Input.GetKey(KeyCode.A));
+
+            _moveDirection = new Vector2(right + left, up + down);
+            
+            if (Input.GetMouseButtonDown(0))
+                SimpleAttack();
         }
 
         private void FixedUpdate()
         {
-            if (_isMoving)
-            {
-                Vector2 direction = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
-
-                Move(direction, _speed);
-            }
+            Move(_moveDirection, _speed);
         }
 
         public void GetDamage(int damage)
@@ -68,7 +88,19 @@ namespace Characters
 
         public void Move(Vector2 direction, float speed)
         {
+            if (direction == Vector2.zero)
+            {
+                state = States.Idle;
 
+                return;
+            }
+
+            state = States.Walk;
+        }
+
+        public void SimpleAttack()
+        {
+            state = States.SimpleAttack;
         }
 
         public enum States
